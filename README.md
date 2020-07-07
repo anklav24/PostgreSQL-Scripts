@@ -1,4 +1,4 @@
-# PostgreSQL-Backup-Scripts
+# PostgreSQL-Scripts
 
 ### Для чего предназначен проект:
 Скрипты бекапа, восстановления, удаления и обслуживания баз 1С PostgreSQL
