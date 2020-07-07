@@ -21,7 +21,7 @@
 
 `\l+`
 
-Или использовать скрипт (копировать целиком 4 строки)
+Или использовать скрипт (копировать целиком)
 
 `select t1.datname AS db_name,  
        pg_size_pretty(pg_database_size(t1.datname)) as db_size
